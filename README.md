@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @princepatel155
-- 👀 I’m interested in java
-- 🌱 I’m currently learning python and c
-- 💞️ I’m looking to collaborate on python
+- 👀 I’m interested in Machine learning
+- 🌱 I’m currently learning web Dev
+- 💞️ I’m looking to collaborate on my project BookMate
 - 📫 How to reach me princepatel1551756@gmail.com
 
 <!---
